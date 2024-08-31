@@ -1,0 +1,1 @@
+In the anchor tag target="_blank" is used to navigate the link to new page
