@@ -6,6 +6,8 @@ import Paper from "../assets/paper.png"
 import Trophy from "../assets/Trophy.png"
 import guvi from "src/assets/guvi.png"
 import download from "src/assets/download.png"
+import devtown from "src/assets/devtown.png"
+import nsic from "src/assets/nsic.png"
 
 export const HERO_CONTENT = "I am a passionate learner in full-stack web development, artificial intelligence, and Java-based projects, with a keen interest in contributing to generative AI. I excel in working under pressure, quickly adapt to new challenges, and have strong communication skills. My goal is to continuously expand my expertise, stay at the forefront of technological advancements, and apply my knowledge to develop innovative solutions that drive growth and deliver exceptional results.";
 
@@ -31,7 +33,7 @@ export const EXPERIENCES = [
     
   },
   {
-    image:"src/assets/download (2).png",
+    image: devtown ,
     year: "Jul2023 - Sep2023",
     role: "Web Development Intern",
     company: "Devtown ",
@@ -40,7 +42,7 @@ export const EXPERIENCES = [
     
   },
   {
-    image:"src/assets/download (1).png",
+    image:nsic,
     year: "June 2023",
     role: "App Development Intern",
     company: "National Small Industries Corporation",

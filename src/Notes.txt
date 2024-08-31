@@ -1,1 +1,7 @@
 In the anchor tag target="_blank" is used to navigate the link to new page
+
+always use Reacr for created any files in react starting with capital
+
+and for github repo always start with small case
+
+for import any images from index.js import it initially
