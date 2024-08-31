@@ -4,6 +4,8 @@ import Inspire from"../assets/Inspire.png"
 import Hackathon from"../assets/Hackathon.png"
 import Paper from "../assets/paper.png"
 import Trophy from "../assets/Trophy.png"
+import guvi from "src/assets/guvi.png"
+import download from "src/assets/download.png"
 
 export const HERO_CONTENT = "I am a passionate learner in full-stack web development, artificial intelligence, and Java-based projects, with a keen interest in contributing to generative AI. I excel in working under pressure, quickly adapt to new challenges, and have strong communication skills. My goal is to continuously expand my expertise, stay at the forefront of technological advancements, and apply my knowledge to develop innovative solutions that drive growth and deliver exceptional results.";
 
@@ -11,7 +13,7 @@ export const ABOUT_TEXT = "I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    image:"src/assets/guvi.png",
+    image:guvi,
     year:"Jun2024 - Now ",
     role: "Campus Ambassador",
     company: "GUVI Geek Networks, IITM Research Park",
@@ -20,7 +22,7 @@ export const EXPERIENCES = [
     
   },
   {
-    image:"src/assets/download.png",
+    image:download ,
     year: "May2024 - Jul2024",
     role: "Research Intern",
     company: "National Institute of Technology Puducherry",
@@ -111,9 +113,4 @@ export const ACHIEVEMENTS=[{
   description:'Selected for INSPIRE Internship Science Camp, Dec 2019, University of Madras; highly competitive, 94%+ SSLC required.'
  }, ];
 
-export const CONTACT = {
-  address: "767 Fifth Avenue, New",
-  description:'I York, NY 10153',
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
-};
+
