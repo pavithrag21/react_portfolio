@@ -8,6 +8,10 @@ import guvi from "src/assets/guvi.png"
 import download from "src/assets/download.png"
 import devtown from "src/assets/devtown.png"
 import nsic from "src/assets/nsic.png"
+import Multi from "src/assets/Projects/Multi.png"
+import test_0076 from "../assets/Projects/test_0076.png"
+import ToDolist from "../assets/Projects/ToDolist.jpg"
+import Qrcode from"../assets/Projects/Qrcode.png"
 
 export const HERO_CONTENT = "I am a passionate learner in full-stack web development, artificial intelligence, and Java-based projects, with a keen interest in contributing to generative AI. I excel in working under pressure, quickly adapt to new challenges, and have strong communication skills. My goal is to continuously expand my expertise, stay at the forefront of technological advancements, and apply my knowledge to develop innovative solutions that drive growth and deliver exceptional results.";
 
@@ -55,28 +59,28 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "MultiLingual Virtual Asst",
-    image:"src/assets/Projects/Multi.png",
+    image:Multi,
     description:
       "Developed a multilingual virtual assistant project that converts text into 185 languages and generates audio using Generative AI .Along with this a chatbot has been implemented making user friendly.",
     
   },
   {
     title: "A MULTI-ATTENTION ENHANCED THIN CLOUD-REMOVAL GENERATIVE ADVERSARIAL NETWORK",
-    image:"src/assets/Projects/test_0076.png",
+    image: test_0076,
     description:
       "Developed MAE-CG, a GAN using spatial attention like CBAM and GLAM for thin cloud removal, awaiting IEEE approval.",
   
   },
   {
     title: "To-DO list",  
-    image:"src/assets/Projects/ToDolist.jpg",
+    image:ToDolist,
     description:
       "Developed a To-Do List project using the MERN stack (MongoDB, Express.js, React.js, Node.js) for seamless task management.",
     
   },
   {
     title: "Qr Code Generator",
-    image:"src/assets/Projects/Qrcode.png",
+    image:Qrcode,
     description:
       "Created a QR Code Generator using Node.js, enabling users to generate custom QR codes efficiently.",
     
