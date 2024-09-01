@@ -5,3 +5,5 @@ always use Reacr for created any files in react starting with capital
 and for github repo always start with small case
 
 for import any images from index.js import it initially
+
+dont copy the file path instant use ../assets like this
