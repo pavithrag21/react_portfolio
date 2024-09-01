@@ -1,3 +1,6 @@
+hello coders!! here are some challenges which i faced during the process of building this code!!
+
+
 In the anchor tag target="_blank" is used to navigate the link to new page
 
 always use Reacr for created any files in react starting with capital
@@ -6,4 +9,6 @@ and for github repo always start with small case
 
 for import any images from index.js import it initially
 
-dont copy the file path instant use ../assets like this
+dont copy the file path instant use ../assets like this 
+
+if the build gets failed check for the errors in the code
