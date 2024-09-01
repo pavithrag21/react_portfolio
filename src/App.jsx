@@ -3,6 +3,7 @@ import About from './components/About'
 import CardData from './components/CardData'
 import Details from './components/Details'
 import Ex from './components/Ex'
+import Footer from './components/Footer'
 import NavHead from './components/NavHead'
 import Services from './components/Services'
 import Skills from './components/Skills'
@@ -23,6 +24,7 @@ const App = () => {
       <Skills/>
       <Ex/>
       <Details/>
+      <Footer/>
       </div>
       </div>
       </div>
