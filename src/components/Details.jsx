@@ -50,7 +50,7 @@ const Details = () => {
                     <h2 className='tracking-wider text-start p-4 font-bold text-2xl sm:text-3xl lg:text-4xl dark:text-white'>Wanna Hire Me! </h2>
                     <p className="flex flex-row justify-items-center text-wrap text-sm md:text-base text-blue-200 px-4 pt-2 hidden max-md:block">Eager to contribute, I’ll provide innovative web solutions and drive your association’s growth with agile methodologies for efficient results.</p>
                     <p className="flex flex-row justify-items-center text-wrap text-sm md:text-base text-blue-200 px-4 pt-2 hidden md:block">Eager to work with you, I’m driven by a passion for web development, bringing innovative, tailor-made solutions to life. If you hire me, I will contribute to the project for the development of your association, ensuring every project is efficient, adaptable, and perfectly aligned with your vision through agile methodologies.</p>
-                    <div className="flex justify-center "><a href="https://drive.google.com/file/d/1wFKZjZCC75dIWxFPqQ7hIJ3z6qDLQz-C/view?usp=sharing" target="_blank"><button className="rounded-2xl p-4 flex flex-row mt-4 text-black bg-gradient-to-r from-blue-800 to-blue-300"><IoMdDownload className="mt-1 mx-1"/><b>Resume</b></button></a></div>
+                    <div className="flex justify-center "><a href="https://drive.google.com/file/d/1a5PebaB04lyr2EtQfJyRY5s-NnYJZgJd/view?usp=sharing" target="_blank"><button className="rounded-2xl p-4 flex flex-row mt-4 text-black bg-gradient-to-r from-blue-800 to-blue-300"><IoMdDownload className="mt-1 mx-1"/><b>Resume</b></button></a></div>
 
                     
                 <div className="flex flex-row justify-center gap-2 m-6" >
