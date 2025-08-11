@@ -58,6 +58,20 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "AI POWERED HERITAGE GUIDE WITH MULTILINGUAL MAPS INTEGRATION",
+    image:Screenshot (23),
+    description:
+      "AI-powered heritage guide using FLAN LLM, Whisper, BLIP, LangChain, FAISS, Leaflet.js, and Python, supporting multimodal input with multilingual responses, integrated with interactive maps for rich cultural exploration."
+
+  },
+  {
+    title: "A MULTI-ATTENTION ENHANCED THIN CLOUD-REMOVAL GENERATIVE ADVERSARIAL NETWORK",
+    image: ,
+    description:
+      "Developed MAE-CG, a Generative Adversarial Network (GAN) enhanced with spatial attention modules like CBAM and GLAM, designed for thin cloud removal in satellite imagery to improve clarity for remote sensing applications",
+  
+  },
+  {
     title: "MultiLingual Virtual Asst",
     image:Multi,
     description:
@@ -65,27 +79,14 @@ export const PROJECTS = [
     
   },
   {
-    title: "A MULTI-ATTENTION ENHANCED THIN CLOUD-REMOVAL GENERATIVE ADVERSARIAL NETWORK",
-    image: test_0076,
+    title: "T20 PLAYER PERFORMANCE ANALYZER",
+    image:screenshot (43),
     description:
-      "Developed MAE-CG, a GAN using spatial attention like CBAM and GLAM for thin cloud removal, awaiting IEEE approval.",
-  
-  },
-  {
-    title: "To-DO list",  
-    image:ToDolist,
-    description:
-      "Developed a To-Do List project using the MERN stack (MongoDB, Express.js, React.js, Node.js) for seamless task management.",
-    
-  },
-  {
-    title: "Qr Code Generator",
-    image:Qrcode,
-    description:
-      "Created a QR Code Generator using Node.js, enabling users to generate custom QR codes efficiently.",
+      "Developed a T20 Player Performance Analyzer using Python and Pandas for data cleaning and analysis, and built a Power BI dashboard to identify top performers and recommend the best playing XI."
     
   },
 ];
+
 
 export const ACHIEVEMENTS=[{
   
