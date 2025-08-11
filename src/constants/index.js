@@ -12,7 +12,8 @@ import Multi from "../assets/Projects/Multi.png"
 import test_0076 from "../assets/Projects/test_0076.png"
 import ToDolist from "../assets/Projects/ToDolist.jpg"
 import Qrcode from"../assets/Projects/Qrcode.png"
-import Screenshot (23) from 
+import tnmap from "../assets/Projects/tnmap.jpg"
+import powerbi from "../assets/Projects/powerbi.jpg"
 
 export const HERO_CONTENT = "I am a passionate learner in full-stack web development, artificial intelligence, and Java-based projects, with a keen interest in contributing to generative AI. I excel in working under pressure, quickly adapt to new challenges, and have strong communication skills. My goal is to continuously expand my expertise, stay at the forefront of technological advancements, and apply my knowledge to develop innovative solutions that drive growth and deliver exceptional results.";
 
@@ -60,7 +61,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "AI POWERED HERITAGE GUIDE WITH MULTILINGUAL MAPS INTEGRATION",
-    image:Screenshot (23),
+    image:tnmap,
     description:
       "AI-powered heritage guide using FLAN LLM, Whisper, BLIP, LangChain, FAISS, Leaflet.js, and Python, supporting multimodal input with multilingual responses, integrated with interactive maps for rich cultural exploration."
 
@@ -81,7 +82,7 @@ export const PROJECTS = [
   },
   {
     title: "T20 PLAYER PERFORMANCE ANALYZER",
-    image:Screenshot (43),
+    image:powerbi,
     description:
       "Developed a T20 Player Performance Analyzer using Python and Pandas for data cleaning and analysis, and built a Power BI dashboard to identify top performers and recommend the best playing XI."
     
