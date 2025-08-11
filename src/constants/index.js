@@ -12,6 +12,7 @@ import Multi from "../assets/Projects/Multi.png"
 import test_0076 from "../assets/Projects/test_0076.png"
 import ToDolist from "../assets/Projects/ToDolist.jpg"
 import Qrcode from"../assets/Projects/Qrcode.png"
+import Screenshot (23) from 
 
 export const HERO_CONTENT = "I am a passionate learner in full-stack web development, artificial intelligence, and Java-based projects, with a keen interest in contributing to generative AI. I excel in working under pressure, quickly adapt to new challenges, and have strong communication skills. My goal is to continuously expand my expertise, stay at the forefront of technological advancements, and apply my knowledge to develop innovative solutions that drive growth and deliver exceptional results.";
 
@@ -66,7 +67,7 @@ export const PROJECTS = [
   },
   {
     title: "A MULTI-ATTENTION ENHANCED THIN CLOUD-REMOVAL GENERATIVE ADVERSARIAL NETWORK",
-    image: ,
+    image: test_0076,
     description:
       "Developed MAE-CG, a Generative Adversarial Network (GAN) enhanced with spatial attention modules like CBAM and GLAM, designed for thin cloud removal in satellite imagery to improve clarity for remote sensing applications",
   
@@ -80,7 +81,7 @@ export const PROJECTS = [
   },
   {
     title: "T20 PLAYER PERFORMANCE ANALYZER",
-    image:screenshot (43),
+    image:Screenshot (43),
     description:
       "Developed a T20 Player Performance Analyzer using Python and Pandas for data cleaning and analysis, and built a Power BI dashboard to identify top performers and recommend the best playing XI."
     
